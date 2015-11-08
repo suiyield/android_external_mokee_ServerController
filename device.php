@@ -357,6 +357,12 @@ $hardware_info = array(
                      'rom' => '16GB',
                      'battery' => '2600 mAh',
                      'display' => '4.6 inch, 1280x720 pixel(319ppi)',
+                     'cpuarch' => 'Arm'),
+    'sirius' => array('cpu' => 'Qualcomm® Snapdragon™ 801',
+                     'ram' => '3GB',
+                     'rom' => '16GB',
+                     'battery' => '3200 mAh',
+                     'display' => '5.2 inch, 1920x1080 pixel(424ppi)',
                      'cpuarch' => 'Arm'),                 
 );
 
